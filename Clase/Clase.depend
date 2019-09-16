@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1568639486 source:c:\users\alumno\desktop\clase09\clase\biblioteca.c
+
+1568639514 c:\users\alumno\desktop\clase09\clase\biblioteca.h
+
+1568639920 source:c:\users\alumno\desktop\clase09\clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
